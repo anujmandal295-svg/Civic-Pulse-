@@ -1,0 +1,8 @@
+streamlit>=1.38
+anthropic>=0.40
+requests
+beautifulsoup4
+pypdf
+feedparser
+rank-bm25
+gTTS
